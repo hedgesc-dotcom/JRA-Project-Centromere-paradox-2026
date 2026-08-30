@@ -2,8 +2,8 @@
 #loading all packages to build the foundations of this project 
 
 #This is a list of all figures generated
-#generated for the poster. Most figures created have not been included due to lack of 
-#analysis power or size.
+#Most figures created have not been included to final poster due to lack of 
+#analysis power or sizing constraints
 
 library(tidyverse)
 library(stringr)
